@@ -12,14 +12,14 @@ adaptability
 administrability
 affordability
 agility  - daniel kiluange, felipe baruch
-auditability
+auditability - (Mário Júnior, Juliana Nascimento)
 autonomy 
 availability
 compatibility
 composability
 configurability
 credibility
-customizability
+customizability - (Mário Júnior, Juliana Nascimento)
 debugability
 degradability
 determinability
@@ -30,7 +30,7 @@ discoverability
 distributability
 durability - daniel kiluange, felipe baruch
 effectiveness
-efficiency - daniel kiluange, felipe baruch
+efficiency - daniel kiluange, felipe baruch - (Mário Júnior, Juliana Nascimento)
 evolvability
 extensibility
 failure transparency
@@ -42,15 +42,15 @@ installability
 integrity - daniel kiluange, felipe baruch
 interchangeability
 interoperability [Erl]
-learnability
+learnability - (Mário Júnior, Juliana Nascimento)
 maintainability
 manageability
 mobility
 modifiability
-modularity
+modularity - (Mário Júnior, Juliana Nascimento)
 operability - daniel kiluange, felipe baruch
 orthogonality
-portability
+portability - (Mário Júnior, Juliana Nascimento)
 precision
 predictability
 process capabilities
@@ -63,9 +63,9 @@ repeatability
 reproducibility
 resilience - daniel kiluange, felipe baruch
 responsiveness
-reusability
-safety
-scalability
+reusability - (Mário Júnior, Juliana Nascimento)
+safety - (Mário Júnior, Juliana Nascimento)
+scalability - (Mário Júnior, Juliana Nascimento)
 seamlessness
 self-sustainability
 serviceability (a.k.a. supportability)
@@ -83,5 +83,5 @@ transparency
 ubiquity
 understandability
 upgradability
-usability
+usability - (Mário Júnior, Juliana Nascimento)
 verifiability
