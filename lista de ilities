@@ -10,17 +10,17 @@ accountability
 accuracy - daniel kiluange, felipe baruch
 adaptability
 administrability
-affordability
+affordability - Kenia
 agility  - daniel kiluange, felipe baruch
 auditability - (Mário Júnior, Juliana Nascimento)
 autonomy 
 availability
-compatibility
+compatibility - Paulo Vinicius, Leonora Assis
 composability
 configurability
 credibility
 customizability - (Mário Júnior, Juliana Nascimento)
-debugability
+debugability - Kenia
 degradability
 determinability
 demonstrability
@@ -39,15 +39,15 @@ fidelity
 flexibility - daniel kiluange, felipe baruch
 inspectability
 installability
-integrity - daniel kiluange, felipe baruch
+integrity - daniel kiluange, felipe baruch, Kenia
 interchangeability
 interoperability [Erl]
-learnability - (Mário Júnior, Juliana Nascimento)
+learnability - (Kenia, Mário Júnior, Juliana Nascimento)
 maintainability
 manageability
 mobility
 modifiability
-modularity - (Mário Júnior, Juliana Nascimento)
+modularity - (Kenia, Mário Júnior, Juliana Nascimento)
 operability - daniel kiluange, felipe baruch
 orthogonality
 portability - (Mário Júnior, Juliana Nascimento)
@@ -62,9 +62,10 @@ repairability
 repeatability
 reproducibility
 resilience - daniel kiluange, felipe baruch
-responsiveness
-reusability - (Mário Júnior, Juliana Nascimento)
-safety - (Mário Júnior, Juliana Nascimento)
+
+responsiveness - Kenia
+reusability - (Kenia, Mário Júnior, Juliana Nascimento)
+safety - (Kenia, Mário Júnior, Juliana Nascimento)
 scalability 
 seamlessness
 self-sustainability
@@ -76,12 +77,12 @@ standards compliance
 survivability
 sustainability
 tailorability
-testability
+testability - Kenia
 timeliness
 traceability
 transparency
 ubiquity
 understandability
 upgradability
-usability - (Mário Júnior, Juliana Nascimento)
+usability - (Kenia, Mário Júnior, Juliana Nascimento)
 verifiability
