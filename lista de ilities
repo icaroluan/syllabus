@@ -10,17 +10,17 @@ accountability
 accuracy - Litiano
 adaptability - Litiano
 administrability
-affordability
-agility 
-auditability
+affordability - Kenia
+agility  - daniel kiluange, felipe baruch
+auditability - (Mário Júnior, Juliana Nascimento)
 autonomy 
 availability - Litiano
-compatibility
+compatibility - Paulo Vinicius, Leonora Assis
 composability
 configurability
 credibility
-customizability
-debugability
+customizability - (Mário Júnior, Juliana Nascimento)
+debugability - Kenia
 degradability
 determinability
 demonstrability
@@ -30,7 +30,7 @@ discoverability
 distributability
 durability
 effectiveness
-efficiency
+efficiency - daniel kiluange, felipe baruch - (Mário Júnior, Juliana Nascimento)
 evolvability
 extensibility
 failure transparency
@@ -39,18 +39,18 @@ fidelity
 flexibility
 inspectability
 installability
-integrity
+integrity - daniel kiluange, felipe baruch, Kenia
 interchangeability
-interoperability [Erl] - Litiano
-learnability - Litiano
+interoperability - Litiano
+learnability - (Kenia, Mário Júnior, Juliana Nascimento, Litiano)
 maintainability
 manageability
 mobility
 modifiability
-modularity
-operability - Litiano
+modularity - (Kenia, Mário Júnior, Juliana Nascimento)
+operability - daniel kiluange, felipe baruch, Litiano
 orthogonality
-portability - Litiano
+portability - (Mário Júnior, Juliana Nascimento, Litiano)
 precision
 predictability
 process capabilities
@@ -61,11 +61,11 @@ relevance
 repairability
 repeatability
 reproducibility
-resilience
-responsiveness
-reusability
-safety - Litiano
-scalability
+resilience - daniel kiluange, felipe baruch
+responsiveness - Kenia
+reusability - (Kenia, Mário Júnior, Juliana Nascimento)
+safety - (Kenia, Mário Júnior, Juliana Nascimento, Litiano)
+scalability 
 seamlessness
 self-sustainability
 serviceability (a.k.a. supportability)
@@ -76,12 +76,12 @@ standards compliance
 survivability
 sustainability
 tailorability
-testability - Litiano
+testability - Kenia, Litiano
 timeliness
 traceability
 transparency
 ubiquity
 understandability
 upgradability
-usability - Litiano
+usability - (Kenia, Mário Júnior, Juliana Nascimento, Litiano)
 verifiability

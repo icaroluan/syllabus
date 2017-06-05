@@ -1,0 +1,10 @@
+// Nós
+
+
+// nome da equipe
+	digraph {
+		a -> b;
+		b -> c;
+		c -> d;
+		d -> a;
+	}
