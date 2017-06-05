@@ -10,7 +10,7 @@ accountability
 accuracy - daniel kiluange, felipe baruch
 adaptability
 administrability
-affordability
+affordability - Kenia
 agility  - daniel kiluange, felipe baruch
 auditability
 autonomy 
@@ -20,7 +20,7 @@ composability
 configurability
 credibility
 customizability
-debugability
+debugability - Kenia
 degradability
 determinability
 demonstrability
@@ -39,15 +39,15 @@ fidelity
 flexibility - daniel kiluange, felipe baruch
 inspectability
 installability
-integrity - daniel kiluange, felipe baruch
+integrity - daniel kiluange, felipe baruch, Kenia
 interchangeability
 interoperability [Erl]
-learnability
+learnability - Kenia
 maintainability
 manageability
 mobility
 modifiability
-modularity
+modularity - Kenia
 operability - daniel kiluange, felipe baruch
 orthogonality
 portability
@@ -62,9 +62,9 @@ repairability
 repeatability
 reproducibility
 resilience - daniel kiluange, felipe baruch
-responsiveness
+responsiveness - Kenia
 reusability
-safety
+safety - Kenia
 scalability
 seamlessness
 self-sustainability
@@ -76,12 +76,12 @@ standards compliance
 survivability
 sustainability
 tailorability
-testability
+testability - Kenia
 timeliness
 traceability
 transparency
 ubiquity
 understandability
 upgradability
-usability
+usability - Kenia
 verifiability
