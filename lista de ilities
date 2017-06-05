@@ -13,10 +13,10 @@ administrability
 affordability - Kenia
 agility  - daniel kiluange, felipe baruch
 auditability
-autonomy 
+autonomy - rafael
 availability
 compatibility - Paulo Vinicius, Leonora Assis
-composability
+composability - rafael
 configurability
 credibility
 customizability
@@ -32,7 +32,7 @@ durability - daniel kiluange, felipe baruch
 effectiveness
 efficiency - daniel kiluange, felipe baruch
 evolvability
-extensibility
+extensibility - rafael
 failure transparency
 fault-tolerance
 fidelity
@@ -45,13 +45,13 @@ interoperability [Erl]
 learnability - Kenia
 maintainability
 manageability
-mobility
+mobility - rafael
 modifiability
 modularity - Kenia
 operability - daniel kiluange, felipe baruch
 orthogonality
-portability
-precision
+portability - rafael
+precision - rafael
 predictability
 process capabilities
 producibility
@@ -64,7 +64,7 @@ reproducibility
 resilience - daniel kiluange, felipe baruch
 responsiveness - Kenia
 reusability
-safety - Kenia
+safety - Kenia, rafael
 scalability
 seamlessness
 self-sustainability
@@ -76,12 +76,12 @@ standards compliance
 survivability
 sustainability
 tailorability
-testability - Kenia
+testability - Kenia, rafael
 timeliness
 traceability
 transparency
 ubiquity
 understandability
 upgradability
-usability - Kenia
+usability - Kenia, rafael
 verifiability
