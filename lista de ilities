@@ -7,14 +7,14 @@ Cada atributo de qualidade pode ter, no máximo, 3 nomes.
 
 accessibility - nome1, nome2, nome3
 accountability
-accuracy - daniel kiluange, felipe baruch
-adaptability
+accuracy - Litiano
+adaptability - Litiano
 administrability
 affordability
-agility  - daniel kiluange, felipe baruch
+agility 
 auditability
 autonomy 
-availability
+availability - Litiano
 compatibility
 composability
 configurability
@@ -28,60 +28,60 @@ dependability
 deployability
 discoverability
 distributability
-durability - daniel kiluange, felipe baruch
+durability
 effectiveness
-efficiency - daniel kiluange, felipe baruch
+efficiency
 evolvability
 extensibility
 failure transparency
-fault-tolerance
+fault-tolerance - Litiano
 fidelity
-flexibility - daniel kiluange, felipe baruch
+flexibility
 inspectability
 installability
-integrity - daniel kiluange, felipe baruch
+integrity
 interchangeability
-interoperability [Erl]
-learnability
+interoperability [Erl] - Litiano
+learnability - Litiano
 maintainability
 manageability
 mobility
 modifiability
 modularity
-operability - daniel kiluange, felipe baruch
+operability - Litiano
 orthogonality
-portability
+portability - Litiano
 precision
 predictability
 process capabilities
 producibility
 provability
-recoverability
+recoverability - Litiano
 relevance
 repairability
 repeatability
 reproducibility
-resilience - daniel kiluange, felipe baruch
+resilience
 responsiveness
 reusability
-safety
+safety - Litiano
 scalability
 seamlessness
 self-sustainability
 serviceability (a.k.a. supportability)
-securability - daniel kiluange, felipe baruch
+securability
 simplicity
 stability
 standards compliance
 survivability
 sustainability
 tailorability
-testability
+testability - Litiano
 timeliness
 traceability
 transparency
 ubiquity
 understandability
 upgradability
-usability
+usability - Litiano
 verifiability
