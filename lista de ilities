@@ -7,11 +7,11 @@ Cada atributo de qualidade pode ter, no máximo, 3 nomes.
 
 accessibility - nome1, nome2, nome3
 accountability
-accuracy - Litiano
-adaptability - Litiano
+accuracy - Litiano, (Everton, Marcos)
+adaptability - Litiano, (Everton, Marcos)
 administrability
 affordability - Kenia
-agility  - daniel kiluange, felipe baruch
+agility  - daniel kiluange, felipe baruch, Everton
 auditability - (Mário Júnior, Juliana Nascimento)
 autonomy 
 availability - Litiano
@@ -34,7 +34,7 @@ efficiency - daniel kiluange, felipe baruch - (Mário Júnior, Juliana Nasciment
 evolvability
 extensibility
 failure transparency
-fault-tolerance - Litiano
+fault-tolerance - Litiano, (Everton, Marcos)
 fidelity
 flexibility
 inspectability
@@ -43,7 +43,7 @@ integrity - daniel kiluange, felipe baruch, Kenia
 interchangeability
 interoperability - Litiano
 learnability - (Kenia, Mário Júnior, Juliana Nascimento, Litiano)
-maintainability
+maintainability - (Everton, Marcos)
 manageability
 mobility
 modifiability
@@ -56,7 +56,7 @@ predictability
 process capabilities
 producibility
 provability
-recoverability - Litiano
+recoverability - Litiano, (Everton, Marcos)
 relevance
 repairability
 repeatability
@@ -76,7 +76,7 @@ standards compliance
 survivability
 sustainability
 tailorability
-testability - Kenia, Litiano
+testability - Kenia, Litiano, (Everton, Marcos)
 timeliness
 traceability
 transparency
