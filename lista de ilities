@@ -9,7 +9,7 @@ accessibility
 accountability
 accuracy - daniel kiluange, felipe baruch, Litiano
 adaptability - Litiano
-administrability
+administrability - Weslley e Roberto
 affordability - Kenia
 agility - daniel kiluange, felipe baruch, Litiano
 auditability - (Mário Júnior, Juliana Nascimento)
@@ -24,7 +24,7 @@ debugability - Kenia
 degradability
 determinability
 demonstrability
-dependability
+dependability - Weslley e Roberto
 deployability
 discoverability
 distributability
@@ -32,32 +32,32 @@ durability - daniel kiluange, felipe baruch
 effectiveness
 efficiency - daniel kiluange, felipe baruch, (Mário Júnior, Juliana Nascimento)
 evolvability
-extensibility
+extensibility - Weslley e Roberto
 failure transparency
 fault-tolerance - Litiano
 fidelity
 flexibility - daniel kiluange, felipe baruch
 inspectability
-installability
+installability 
 integrity - daniel kiluange, felipe baruch, Kenia
 interchangeability
 interoperability -  Litiano
 learnability - (Kenia, Mário Júnior, Juliana Nascimento, Litiano)
 maintainability
 manageability
-mobility
+mobility - Weslley e Roberto
 modifiability
 modularity - Kenia - (Mário Júnior, Juliana Nascimento)
 operability - daniel kiluange, felipe baruch,  Litiano
 orthogonality
 portability - Litiano, (Mário Júnior, Juliana Nascimento)
-precision
+precision - Weslley e Roberto
 predictability
 process capabilities
 producibility
 provability
 recoverability - Litiano
-relevance
+relevance - Weslley e Roberto
 repairability
 repeatability
 reproducibility
@@ -65,12 +65,12 @@ resilience - daniel kiluange, felipe baruch
 responsiveness - Kenia
 reusability - (Kenia, Mário Júnior, Juliana Nascimento)
 safety - (Kenia, Mário Júnior, Juliana Nascimento, Litiano)
-scalability
+scalability - Weslley e Roberto
 seamlessness
 self-sustainability
 serviceability (a.k.a. supportability)
 securability - daniel kiluange, felipe baruch
-simplicity
+simplicity - Weslley e Roberto
 stability
 standards compliance
 survivability
@@ -79,7 +79,7 @@ tailorability
 testability - Kenia, Litiano
 timeliness
 traceability
-transparency
+transparency - Weslley e Roberto
 ubiquity
 understandability
 upgradability
