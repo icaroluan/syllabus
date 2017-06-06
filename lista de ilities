@@ -11,7 +11,7 @@ accuracy - Litiano
 adaptability - Litiano
 administrability
 affordability - Kenia
-agility  - daniel kiluange, felipe baruch
+agility  - daniel kiluange, felipe baruch, Vitor Marcelino
 auditability - (Mário Júnior, Juliana Nascimento)
 autonomy 
 availability - Litiano
@@ -20,12 +20,12 @@ composability
 configurability
 credibility
 customizability - (Mário Júnior, Juliana Nascimento)
-debugability - Kenia
+debugability - Kenia, Vitor Marcelino
 degradability
 determinability
 demonstrability
 dependability
-deployability
+deployability - Vitor Marcelino
 discoverability
 distributability
 durability
@@ -43,7 +43,7 @@ integrity - daniel kiluange, felipe baruch, Kenia
 interchangeability
 interoperability - Litiano
 learnability - (Kenia, Mário Júnior, Juliana Nascimento, Litiano)
-maintainability
+maintainability - Vitor Marcelino
 manageability
 mobility
 modifiability
@@ -65,23 +65,23 @@ resilience - daniel kiluange, felipe baruch
 responsiveness - Kenia
 reusability - (Kenia, Mário Júnior, Juliana Nascimento)
 safety - (Kenia, Mário Júnior, Juliana Nascimento, Litiano)
-scalability 
+scalability - Vitor Marcelino
 seamlessness
 self-sustainability
 serviceability (a.k.a. supportability)
-securability
-simplicity
+securability - Vitor Marcelino
+simplicity - Vitor Marcelino
 stability
 standards compliance
 survivability
 sustainability
 tailorability
-testability - Kenia, Litiano
+testability - Kenia, Litiano, Vitor Marcelino
 timeliness
 traceability
 transparency
 ubiquity
 understandability
-upgradability
+upgradability - Vitor Marcelino
 usability - (Kenia, Mário Júnior, Juliana Nascimento, Litiano)
 verifiability
