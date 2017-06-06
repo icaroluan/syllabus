@@ -11,7 +11,7 @@ accuracy - daniel kiluange, felipe baruch, Litiano, (Everton, Marcos)
 adaptability - Litiano, (Everton, Marcos)
 administrability - Weslley e Roberto
 affordability - Kenia
-agility - daniel kiluange, felipe baruch, Litiano
+agility - daniel kiluange, felipe baruch, Litiano, Vitor Marcelino
 auditability - (Mário Júnior, Juliana Nascimento)
 autonomy - rafael
 availability - Litiano
@@ -20,12 +20,12 @@ composability - rafael
 configurability
 credibility
 customizability - (Mário Júnior, Juliana Nascimento)
-debugability - Kenia
+debugability - Kenia, Vitor Marcelino
 degradability
 determinability
 demonstrability
 dependability - Weslley e Roberto
-deployability
+deployability - Vitor Marcelino
 discoverability
 distributability
 durability - daniel kiluange, felipe baruch
@@ -43,7 +43,7 @@ integrity - daniel kiluange, felipe baruch, Kenia
 interchangeability
 interoperability - Litiano, (Everton, Marcos)
 learnability - (Kenia, Mário Júnior, Juliana Nascimento, Litiano)
-maintainability - (Everton, Marcos)
+maintainability - (Everton, Marcos), Vitor Marcelino
 manageability
 mobility - Weslley e Roberto, rafael
 modifiability
@@ -64,24 +64,24 @@ reproducibility
 resilience - daniel kiluange, felipe baruch
 responsiveness - Kenia,  (Everton, Marcos)
 reusability - (Kenia, Mário Júnior, Juliana Nascimento)
-safety - (Kenia, Mário Júnior, Juliana Nascimento, Litiano, Rafael)
-scalability - Weslley e Roberto
+safety - Kenia, (Mário Júnior, Juliana Nascimento), Litiano, rafael
+scalability - Weslley e Roberto, Vitor Marcelino
 seamlessness
 self-sustainability
 serviceability (a.k.a. supportability)
-securability - daniel kiluange, felipe baruch
-simplicity - Weslley e Roberto
+securability - daniel kiluange, felipe baruch, Vitor Marcelino
+simplicity - Weslley e Roberto, Vitor Marcelino
 stability - (Everton, Marcos)
 standards compliance
 survivability
 sustainability
 tailorability
-testability - Kenia, Litiano, rafael, (Everton, Marcos)
+testability - Kenia, Litiano, rafael, (Everton, Marcos), Vitor Marcelino
 timeliness
 traceability
 transparency - Weslley e Roberto
 ubiquity
 understandability
-upgradability
+upgradability - Vitor Marcelino
 usability - Kenia, (Mário Júnior, Juliana Nascimento), Litiano, rafael
 verifiability
