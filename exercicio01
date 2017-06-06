@@ -9,8 +9,13 @@ Em dupla.
   * correção, confiabilidade e robustez (todas as equipes)
   * 2 ou mais atributos externos 
   * 2 ou mais atributos internos
-* Mostrar graficamente a interdependência entre os atributos de qualidade pesquisados. Usar formato .dot / graphviz (http://www.graphviz.org/) para desenhar um grafo, onde cada nó representa um atributo de qualidade e uma aresta entre dois atributos A e B indica que alcançar o atributo de qualidade A contribui para alcançar o atributo B.  (ver template no github)
-* Em um texto à parte (interdependency.md), comente sobre as interdependências entre atributos e sobre a importância relativa de cada um deles. 
+* Mostrar graficamente a interdependência entre os atributos de qualidade pesquisados em um arquivo. 
+Usar formato .dot / graphviz (http://www.graphviz.org/) para desenhar um grafo, 
+onde cada nó representa um atributo de qualidade e uma aresta entre dois atributos A e B indica que alcançar 
+o atributo de qualidade A contribui para alcançar o atributo B.  Ver template no github. Ver [Exemplos](http://graphs.grevian.org/example) 
+* Em um texto à parte (interdependency.md), 
+comente sobre as interdependências entre atributos e 
+sobre a importância relativa de cada um deles. 
 
 
 

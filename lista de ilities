@@ -2,86 +2,86 @@ correctness
 reliability
 robustness
 
-Para os atributos abaixo, edite este arquivo e coloque o seu nome ao lado de um atributo. 
+Para os atributos abaixo, edite este arquivo e coloque o seu nome ao lado de um atributo.
 Cada atributo de qualidade pode ter, no máximo, 3 nomes.
 
-accessibility - nome1, nome2, nome3
+accessibility 
 accountability
-accuracy - daniel kiluange, felipe baruch
-adaptability
-administrability
+accuracy - daniel kiluange, felipe baruch, Litiano
+adaptability - Litiano
+administrability - Weslley e Roberto
 affordability - Kenia
-agility  - daniel kiluange, felipe baruch
-auditability
+agility - daniel kiluange, felipe baruch, Litiano
+auditability - (Mário Júnior, Juliana Nascimento)
 autonomy - rafael
-availability
+availability - Litiano
 compatibility - Paulo Vinicius, Leonora Assis
 composability - rafael
 configurability
 credibility
-customizability
+customizability - (Mário Júnior, Juliana Nascimento)
 debugability - Kenia
 degradability
 determinability
 demonstrability
-dependability
+dependability - Weslley e Roberto
 deployability
 discoverability
 distributability
 durability - daniel kiluange, felipe baruch
 effectiveness
-efficiency - daniel kiluange, felipe baruch
+efficiency - daniel kiluange, felipe baruch, (Mário Júnior, Juliana Nascimento)
 evolvability
-extensibility - rafael
+extensibility - Weslley e Roberto, rafael
 failure transparency
-fault-tolerance
+fault-tolerance - Litiano
 fidelity
 flexibility - daniel kiluange, felipe baruch
 inspectability
-installability
+installability 
 integrity - daniel kiluange, felipe baruch, Kenia
 interchangeability
-interoperability [Erl]
-learnability - Kenia
+interoperability -  Litiano
+learnability - (Kenia, Mário Júnior, Juliana Nascimento, Litiano)
 maintainability
 manageability
-mobility - rafael
+mobility - Weslley e Roberto, rafael
 modifiability
-modularity - Kenia
-operability - daniel kiluange, felipe baruch
+modularity - Kenia - (Mário Júnior, Juliana Nascimento)
+operability - daniel kiluange, felipe baruch,  Litiano
 orthogonality
-portability - rafael
-precision - rafael
+portability - Litiano, (Mário Júnior, Juliana Nascimento), rafael
+precision - Weslley e Roberto, rafael
 predictability
 process capabilities
 producibility
 provability
-recoverability
-relevance
+recoverability - Litiano
+relevance - Weslley e Roberto
 repairability
 repeatability
 reproducibility
 resilience - daniel kiluange, felipe baruch
 responsiveness - Kenia
-reusability
-safety - Kenia, rafael
-scalability
+reusability - (Kenia, Mário Júnior, Juliana Nascimento)
+safety - (Kenia, Mário Júnior, Juliana Nascimento, Litiano, Rafael)
+scalability - Weslley e Roberto
 seamlessness
 self-sustainability
 serviceability (a.k.a. supportability)
 securability - daniel kiluange, felipe baruch
-simplicity
+simplicity - Weslley e Roberto
 stability
 standards compliance
 survivability
 sustainability
 tailorability
-testability - Kenia, rafael
+testability - Kenia, Litiano, rafael
 timeliness
 traceability
-transparency
+transparency - Weslley e Roberto
 ubiquity
 understandability
 upgradability
-usability - Kenia, rafael
+usability - Kenia, (Mário Júnior, Juliana Nascimento), Litiano, rafael
 verifiability
