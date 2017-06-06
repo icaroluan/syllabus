@@ -2,18 +2,18 @@ correctness
 reliability
 robustness
 
-Para os atributos abaixo, edite este arquivo e coloque o seu nome ao lado de um atributo. 
+Para os atributos abaixo, edite este arquivo e coloque o seu nome ao lado de um atributo.
 Cada atributo de qualidade pode ter, no máximo, 3 nomes.
 
-accessibility - nome1, nome2, nome3
+accessibility 
 accountability
-accuracy - Litiano
+accuracy - daniel kiluange, felipe baruch, Litiano
 adaptability - Litiano
 administrability
 affordability - Kenia
-agility  - daniel kiluange, felipe baruch
+agility - daniel kiluange, felipe baruch, Litiano
 auditability - (Mário Júnior, Juliana Nascimento)
-autonomy 
+autonomy
 availability - Litiano
 compatibility - Paulo Vinicius, Leonora Assis
 composability
@@ -28,29 +28,29 @@ dependability
 deployability
 discoverability
 distributability
-durability
+durability - daniel kiluange, felipe baruch
 effectiveness
-efficiency - daniel kiluange, felipe baruch - (Mário Júnior, Juliana Nascimento)
+efficiency - daniel kiluange, felipe baruch, (Mário Júnior, Juliana Nascimento)
 evolvability
 extensibility
 failure transparency
 fault-tolerance - Litiano
 fidelity
-flexibility
+flexibility - daniel kiluange, felipe baruch
 inspectability
 installability
 integrity - daniel kiluange, felipe baruch, Kenia
 interchangeability
-interoperability - Litiano
+interoperability -  Litiano
 learnability - (Kenia, Mário Júnior, Juliana Nascimento, Litiano)
 maintainability
 manageability
 mobility
 modifiability
-modularity - (Kenia, Mário Júnior, Juliana Nascimento)
-operability - daniel kiluange, felipe baruch, Litiano
+modularity - Kenia - (Mário Júnior, Juliana Nascimento)
+operability - daniel kiluange, felipe baruch,  Litiano
 orthogonality
-portability - (Mário Júnior, Juliana Nascimento, Litiano)
+portability - Litiano, (Mário Júnior, Juliana Nascimento)
 precision
 predictability
 process capabilities
@@ -65,11 +65,11 @@ resilience - daniel kiluange, felipe baruch
 responsiveness - Kenia
 reusability - (Kenia, Mário Júnior, Juliana Nascimento)
 safety - (Kenia, Mário Júnior, Juliana Nascimento, Litiano)
-scalability 
+scalability
 seamlessness
 self-sustainability
 serviceability (a.k.a. supportability)
-securability
+securability - daniel kiluange, felipe baruch
 simplicity
 stability
 standards compliance
@@ -83,5 +83,5 @@ transparency
 ubiquity
 understandability
 upgradability
-usability - (Kenia, Mário Júnior, Juliana Nascimento, Litiano)
+usability - Kenia, (Mário Júnior, Juliana Nascimento), Litiano
 verifiability
