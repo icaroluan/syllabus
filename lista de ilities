@@ -13,10 +13,10 @@ administrability - Weslley e Roberto
 affordability - Kenia
 agility - daniel kiluange, felipe baruch, Litiano
 auditability - (Mário Júnior, Juliana Nascimento)
-autonomy
+autonomy - rafael
 availability - Litiano
 compatibility - Paulo Vinicius, Leonora Assis
-composability
+composability - rafael
 configurability
 credibility
 customizability - (Mário Júnior, Juliana Nascimento)
@@ -32,7 +32,7 @@ durability - daniel kiluange, felipe baruch
 effectiveness
 efficiency - daniel kiluange, felipe baruch, (Mário Júnior, Juliana Nascimento)
 evolvability
-extensibility - Weslley e Roberto
+extensibility - Weslley e Roberto, rafael
 failure transparency
 fault-tolerance - Litiano
 fidelity
@@ -45,13 +45,13 @@ interoperability -  Litiano
 learnability - (Kenia, Mário Júnior, Juliana Nascimento, Litiano)
 maintainability
 manageability
-mobility - Weslley e Roberto
+mobility - Weslley e Roberto, rafael
 modifiability
 modularity - Kenia - (Mário Júnior, Juliana Nascimento)
 operability - daniel kiluange, felipe baruch,  Litiano
 orthogonality
-portability - Litiano, (Mário Júnior, Juliana Nascimento)
-precision - Weslley e Roberto
+portability - Litiano, (Mário Júnior, Juliana Nascimento), rafael
+precision - Weslley e Roberto, rafael
 predictability
 process capabilities
 producibility
@@ -64,7 +64,7 @@ reproducibility
 resilience - daniel kiluange, felipe baruch
 responsiveness - Kenia
 reusability - (Kenia, Mário Júnior, Juliana Nascimento)
-safety - (Kenia, Mário Júnior, Juliana Nascimento, Litiano)
+safety - (Kenia, Mário Júnior, Juliana Nascimento, Litiano, Rafael)
 scalability - Weslley e Roberto
 seamlessness
 self-sustainability
@@ -76,12 +76,12 @@ standards compliance
 survivability
 sustainability
 tailorability
-testability - Kenia, Litiano
+testability - Kenia, Litiano, rafael
 timeliness
 traceability
 transparency - Weslley e Roberto
 ubiquity
 understandability
 upgradability
-usability - Kenia, (Mário Júnior, Juliana Nascimento), Litiano
+usability - Kenia, (Mário Júnior, Juliana Nascimento), Litiano, rafael
 verifiability
