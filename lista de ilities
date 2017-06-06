@@ -7,8 +7,8 @@ Cada atributo de qualidade pode ter, no máximo, 3 nomes.
 
 accessibility 
 accountability
-accuracy - daniel kiluange, felipe baruch, Litiano
-adaptability - Litiano
+accuracy - daniel kiluange, felipe baruch, Litiano, (Everton, Marcos)
+adaptability - Litiano, (Everton, Marcos)
 administrability - Weslley e Roberto
 affordability - Kenia
 agility - daniel kiluange, felipe baruch, Litiano
@@ -34,16 +34,16 @@ efficiency - daniel kiluange, felipe baruch, (Mário Júnior, Juliana Nascimento
 evolvability
 extensibility - Weslley e Roberto, rafael
 failure transparency
-fault-tolerance - Litiano
+fault-tolerance - Litiano, (Everton, Marcos)
 fidelity
 flexibility - daniel kiluange, felipe baruch
 inspectability
 installability 
 integrity - daniel kiluange, felipe baruch, Kenia
 interchangeability
-interoperability -  Litiano
+interoperability - Litiano, (Everton, Marcos)
 learnability - (Kenia, Mário Júnior, Juliana Nascimento, Litiano)
-maintainability
+maintainability - (Everton, Marcos)
 manageability
 mobility - Weslley e Roberto, rafael
 modifiability
@@ -56,13 +56,13 @@ predictability
 process capabilities
 producibility
 provability
-recoverability - Litiano
+recoverability - Litiano, (Everton, Marcos)
 relevance - Weslley e Roberto
 repairability
 repeatability
 reproducibility
 resilience - daniel kiluange, felipe baruch
-responsiveness - Kenia
+responsiveness - Kenia,  (Everton, Marcos)
 reusability - (Kenia, Mário Júnior, Juliana Nascimento)
 safety - (Kenia, Mário Júnior, Juliana Nascimento, Litiano, Rafael)
 scalability - Weslley e Roberto
@@ -71,12 +71,12 @@ self-sustainability
 serviceability (a.k.a. supportability)
 securability - daniel kiluange, felipe baruch
 simplicity - Weslley e Roberto
-stability
+stability - (Everton, Marcos)
 standards compliance
 survivability
 sustainability
 tailorability
-testability - Kenia, Litiano, rafael
+testability - Kenia, Litiano, rafael, (Everton, Marcos)
 timeliness
 traceability
 transparency - Weslley e Roberto
