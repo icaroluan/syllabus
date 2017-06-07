@@ -8,17 +8,17 @@ Cada atributo de qualidade pode ter, no máximo, 3 nomes.
 accessibility 
 accountability
 accuracy - daniel kiluange, felipe baruch, Litiano, (Everton, Marcos)
-adaptability - Litiano, (Everton, Marcos), (Antonio , Icaro)
+adaptability - Litiano, (Everton, Marcos), (Antonio , Icaro, Clovis)
 administrability - Weslley e Roberto
-affordability - Kenia, (Antonio , Icaro)
+affordability - Kenia, (Antonio , Icaro, Clovis)
 agility - daniel kiluange, felipe baruch, Litiano, Vitor Marcelino
-auditability - (Mário Júnior, Juliana Nascimento), (Antonio , Icaro)
+auditability - (Mário Júnior, Juliana Nascimento), (Antonio , Icaro, Clovis)
 autonomy - rafael
-availability - Litiano, (Antonio , Icaro)
+availability - Litiano, (Antonio , Icaro, Clovis)
 compatibility - Paulo Vinicius, Leonora Assis
 composability - rafael
 configurability
-credibility - (Antonio , Icaro) 
+credibility - (Antonio , Icaro, Clovis) 
 customizability - (Mário Júnior, Juliana Nascimento)
 debugability - Kenia, Vitor Marcelino
 degradability
@@ -27,7 +27,7 @@ demonstrability
 dependability - Weslley e Roberto
 deployability - Vitor Marcelino
 discoverability
-distributability - (Antonio , Icaro)
+distributability - (Antonio , Icaro, Clovis)
 durability - daniel kiluange, felipe baruch
 effectiveness
 efficiency - daniel kiluange, felipe baruch, (Mário Júnior, Juliana Nascimento)
@@ -35,7 +35,7 @@ evolvability
 extensibility - Weslley e Roberto, rafael
 failure transparency
 fault-tolerance - Litiano, (Everton, Marcos)
-fidelity -(Antonio , Icaro)
+fidelity -(Antonio , Icaro, Clovis)
 flexibility - daniel kiluange, felipe baruch
 inspectability
 installability 
@@ -54,7 +54,7 @@ portability - Litiano, (Mário Júnior, Juliana Nascimento), rafael
 precision - Weslley e Roberto, rafael
 predictability
 process capabilities
-producibility -(Antonio , Icaro)
+producibility -(Antonio , Icaro, Clovis)
 provability
 recoverability - Litiano, (Everton, Marcos)
 relevance - Weslley e Roberto
@@ -71,7 +71,7 @@ self-sustainability
 serviceability (a.k.a. supportability)
 securability - daniel kiluange, felipe baruch, Vitor Marcelino
 simplicity - Weslley e Roberto, Vitor Marcelino
-stability - (Everton, Marcos), (Antonio , Icaro)
+stability - (Everton, Marcos), (Antonio , Icaro, Clovis)
 standards compliance
 survivability
 sustainability
