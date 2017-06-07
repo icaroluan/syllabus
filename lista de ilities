@@ -8,17 +8,17 @@ Cada atributo de qualidade pode ter, no máximo, 3 nomes.
 accessibility 
 accountability
 accuracy - daniel kiluange, felipe baruch, Litiano, (Everton, Marcos)
-adaptability - Litiano, (Everton, Marcos)
+adaptability - Litiano, (Everton, Marcos), (Antonio , Icaro)
 administrability - Weslley e Roberto
-affordability - Kenia
+affordability - Kenia, (Antonio , Icaro)
 agility - daniel kiluange, felipe baruch, Litiano, Vitor Marcelino
-auditability - (Mário Júnior, Juliana Nascimento)
+auditability - (Mário Júnior, Juliana Nascimento), (Antonio , Icaro)
 autonomy - rafael
-availability - Litiano
+availability - Litiano, (Antonio , Icaro)
 compatibility - Paulo Vinicius, Leonora Assis
 composability - rafael
 configurability
-credibility
+credibility - (Antonio , Icaro) 
 customizability - (Mário Júnior, Juliana Nascimento)
 debugability - Kenia, Vitor Marcelino
 degradability
@@ -27,7 +27,7 @@ demonstrability
 dependability - Weslley e Roberto
 deployability - Vitor Marcelino
 discoverability
-distributability
+distributability - (Antonio , Icaro)
 durability - daniel kiluange, felipe baruch
 effectiveness
 efficiency - daniel kiluange, felipe baruch, (Mário Júnior, Juliana Nascimento)
@@ -35,7 +35,7 @@ evolvability
 extensibility - Weslley e Roberto, rafael
 failure transparency
 fault-tolerance - Litiano, (Everton, Marcos)
-fidelity
+fidelity -(Antonio , Icaro)
 flexibility - daniel kiluange, felipe baruch
 inspectability
 installability 
@@ -54,7 +54,7 @@ portability - Litiano, (Mário Júnior, Juliana Nascimento), rafael
 precision - Weslley e Roberto, rafael
 predictability
 process capabilities
-producibility
+producibility -(Antonio , Icaro)
 provability
 recoverability - Litiano, (Everton, Marcos)
 relevance - Weslley e Roberto
@@ -71,7 +71,7 @@ self-sustainability
 serviceability (a.k.a. supportability)
 securability - daniel kiluange, felipe baruch, Vitor Marcelino
 simplicity - Weslley e Roberto, Vitor Marcelino
-stability - (Everton, Marcos)
+stability - (Everton, Marcos), (Antonio , Icaro)
 standards compliance
 survivability
 sustainability
